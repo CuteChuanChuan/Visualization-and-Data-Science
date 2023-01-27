@@ -1,6 +1,6 @@
 # Government Expenditure on Education
 
-![05. World Expenditure on Education by income and region.tiff](https://github.com/CuteChuanChuan/Visualization-and-Data-Science/blob/main/Government%20Expenditure%20on%20Education%20since%202000/03.%20Output/05.%20World%20Expenditure%20on%20Education%20by%20income%20and%20region.tiff)
+![01-1. World Expenditure on Education](https://github.com/CuteChuanChuan/Visualization-and-Data-Science/blob/main/Government%20Expenditure%20on%20Education%20since%202000/03.%20Output/01-1.%20World%20Expenditure%20on%20Education.png)
 
 
 ## Data:
